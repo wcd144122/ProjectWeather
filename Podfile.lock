@@ -1,0 +1,29 @@
+PODS:
+  - ActivityIndicatorManager (2.1.0)
+  - Alamofire (5.5.0)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - iOSDropDown (0.4.0)
+
+DEPENDENCIES:
+  - ActivityIndicatorManager
+  - Alamofire
+  - AlamofireImage
+  - iOSDropDown
+
+SPEC REPOS:
+  trunk:
+    - ActivityIndicatorManager
+    - Alamofire
+    - AlamofireImage
+    - iOSDropDown
+
+SPEC CHECKSUMS:
+  ActivityIndicatorManager: 31087524844ff5a00ee95a905931b7420fdf3cc1
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+
+PODFILE CHECKSUM: a81280e8214e621f5586edbb4487434e30a0dd35
+
+COCOAPODS: 1.11.3

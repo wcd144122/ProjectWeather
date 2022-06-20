@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-ProjectWeather/Pods-ProjectWeather-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ActivityIndicatorManager/ActivityIndicatorManager.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework
